@@ -1,3 +1,5 @@
+## Little Scala/RocksDB example
+
 `git clone git@github.com:tanjabrzak/rocksdb-example-1.git`
 
 `cd rocksdb-example-1`
