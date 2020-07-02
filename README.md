@@ -25,3 +25,8 @@ You will get
 .
 .
 ```
+It's also possible to reproduce error in IntelliJ:
+ - open `Main.scala`, and run it (right click/Run Main) 
+ - in Toolbar click `Edit Configurations`
+ - choose `Allow parallel` run for Main
+ - run Main from Toolbar twice
